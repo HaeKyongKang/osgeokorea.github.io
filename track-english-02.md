@@ -6,7 +6,7 @@ Schedule: 13th November, 12:00 ~ 18:00 (Seoul, South Korea Time)
 
 **Zoom Channel: Coming Soon!**
 
-### Session 6 / Moderator: HaeKyong Kang
+### Session 6 / Moderator: Dr. HaeKyong Kang, Research Fellow, Korea Research Institute for Human Settlements
 <table>
   <thead>
     <tr>
@@ -85,7 +85,7 @@ Schedule: 13th November, 12:00 ~ 18:00 (Seoul, South Korea Time)
   </tbody>
 </table>
 
-### Session 7 / Moderator: Kyusung Choi
+### Session 7 / Moderator: Kyusung Choi, CMO, Gaia3D Inc.
 <table>
   <thead>
     <tr>
@@ -153,7 +153,7 @@ Schedule: 13th November, 12:00 ~ 18:00 (Seoul, South Korea Time)
   </tbody>
 </table>
 
-### Session 8 / Moderator: Junyoung Choi
+### Session 8 / Moderator: Dr. Junyoung Choi, Seoul Institute of Technology
 <table>
   <thead>
     <tr>
