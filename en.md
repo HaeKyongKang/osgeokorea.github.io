@@ -20,8 +20,10 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
 ### ⊙ Online Main Conference
 Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
   - [Korean Track](track-korean)
-  - [English Track 1](track-english-01)
+  - [English Track 1](track-english-01) 
   - [English Track 2](track-english-02)
+  
+    Presentation Guidelines
 
 ### ⊙ Annual General Meeting
 There will be OSGeo Korean Chapter's Annual General Meeting after finishing all the sessions. 
